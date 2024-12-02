@@ -46,6 +46,7 @@ botaoCadastro: {
 },
 
 textoBotao: {
+
     fontSize: 18,
 
     fontWeight: 'bold',
